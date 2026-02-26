@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Soham a full stack (MERN) developer.
-- 🌱 I’m currently learning Smart Contract Development on Ethereum blockchain 
+- 👋 Hi, I’m Soham a full stack (MERN) developer. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail: sohamdachawar123@gmail.com Whatsapp: +91 8446067650.
 
